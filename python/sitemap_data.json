@@ -1,0 +1,14 @@
+{
+  "url": [
+    {
+      "loc": "https://abc.com/",
+      "changefreq": "daily",
+      "priority": "0.7"
+    },
+    {
+      "loc": "https://abc.com/tutorials/all/",
+      "changefreq": "daily",
+      "priority": "0.7"
+    }
+  ]
+}
