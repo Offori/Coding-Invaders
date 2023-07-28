@@ -1,0 +1,51 @@
+Country,Continent,Area,Population,GDP,Capital
+Afghanistan,Asia,652230,25500100,"20,36,40,00,000",Kabul
+Algeria,Africa,2381741,38700000,"2,07,02,10,00,000",Algiers
+Angola,Africa,1246700,19183590,"1,16,30,80,00,000",Luanda
+Argentina,South America,2780400,42669500,"4,77,02,80,00,000",Buenos Aires
+Australia,Oceania,7692024,23545500,"15,64,41,90,00,000",Canberra
+Bolivia,South America,1098581,10027254,"27,03,50,00,000",Sucre
+Botswana,Africa,582000,2024904,"14,41,00,00,000",Gaborone
+Brazil,South America,8515767,202794000,"22,54,10,90,00,000",Bras�lia
+Canada,North America,9984670,35427524,"15,85,00,00,00,000",Ottowa
+Central African Republic,Africa,622984,4709000,"2,18,40,00,000",Bangui
+Chad,Africa,1284000,13211000,"10,18,30,00,000",N'Djamena
+Chile,South America,756102,17773000,"2,68,31,40,00,000",Santiago
+China,Asia,9596961,1365370000,"83,58,40,00,00,000",Beijing
+Colombia,South America,1141748,47662000,"3,69,81,30,00,000",Bogot�
+Egypt,Asia,1002450,86736900,"2,54,67,10,00,000",Cairo
+Ethiopia,Africa,1104300,87952991,"41,60,50,00,000",Addis Ababa
+France,Europe,640679,65906000,"26,11,22,10,00,000",Paris
+India,Asia,3166414,1246160000,"18,75,21,30,00,000",New Delhi
+Indonesia,Asia,1904569,252164800,"8,78,04,30,00,000",Jakarta
+Iran,Asia,1648195,77552000,"5,51,58,80,00,000",Tehran
+Kazakhstan,Europe,2724900,17244000,"2,02,65,60,00,000",Astana
+Kenya,Africa,580367,45546000,"40,69,70,00,000",Nairobi
+Libya,Africa,1759540,6253000,"95,80,20,00,000",Tripoli
+Madagascar,Africa,587041,21263403,"9,96,80,00,000",Antananarivo
+Mali,Africa,1240192,15768000,"10,26,20,00,000",Bamako
+Mauritania,Africa,1030700,3461041,"3,86,60,00,000",Nouakchott
+Mexico,North America,1964375,119713203,"11,83,65,50,00,000",Mexico City
+Mongolia,Asia,1564110,2931300,"10,27,10,00,000",Ulaanbaatar
+Mozambique,Africa,801590,23700715,"14,60,50,00,000",Maputo
+Myanmar,Asia,676578,61120000,"59,44,40,00,000",Naypyidaw
+Namibia,Africa,825615,2113077,"12,80,70,00,000",Windhoek
+Niger,Africa,1267000,17138707,"6,77,30,00,000",Niamey
+Nigeria,Africa,923768,178517000,"2,86,47,00,00,000",Abuja
+Pakistan,Asia,881912,188020000,"2,15,11,70,00,000",Islamabad
+Peru,South America,1285216,30475144,"2,04,68,10,00,000",Lima
+Russia,Eurasia,17125242,146000000,"20,29,81,20,00,000",Moscow
+Saudi Arabia,Asia,2149690,29994272,"7,11,05,00,00,000",Riyadh
+Somalia,Africa,637657,10806000,"1,30,60,00,000",Mogadishu
+South Africa,Africa,1221037,52981991,"3,84,31,30,00,000",Pretoria
+South Sudan,Africa,619745,11739000,"10,06,00,00,000",Juba
+Spain,Europe,505992,46609700,"13,22,12,60,00,000",Madrid
+Sudan,Africa,1886068,37289406,"51,45,30,00,000",Khartoum
+Tanzania,Africa,945087,44928923,"28,24,90,00,000",Dodoma
+Thailand,Asia,513120,64456700,"3,85,69,40,00,000",Bangkok
+Turkey,Asia,783562,76667864,"7,88,29,90,00,000",Ankara
+Ukraine,Europe,603500,43009258,"1,76,30,90,00,000",Kiev
+United States,North America,9826675,318320000,"1,62,44,60,00,00,000","Washington, D.C."
+Venezuela,South America,916445,28946101,"3,82,42,40,00,000",Caracas
+Yemen,Asia,527968,25235000,"32,83,10,00,000",Sana�a
+Zambia,Africa,752612,15023315,"21,49,00,00,000",Lusaka
