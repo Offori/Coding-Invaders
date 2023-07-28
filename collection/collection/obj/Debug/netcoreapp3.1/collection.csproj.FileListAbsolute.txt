@@ -1,0 +1,13 @@
+F:\CoDe\linkedin C#\collection\collection\bin\Debug\netcoreapp3.1\collection.exe
+F:\CoDe\linkedin C#\collection\collection\bin\Debug\netcoreapp3.1\collection.deps.json
+F:\CoDe\linkedin C#\collection\collection\bin\Debug\netcoreapp3.1\collection.runtimeconfig.json
+F:\CoDe\linkedin C#\collection\collection\bin\Debug\netcoreapp3.1\collection.runtimeconfig.dev.json
+F:\CoDe\linkedin C#\collection\collection\bin\Debug\netcoreapp3.1\collection.dll
+F:\CoDe\linkedin C#\collection\collection\bin\Debug\netcoreapp3.1\collection.pdb
+F:\CoDe\linkedin C#\collection\collection\obj\Debug\netcoreapp3.1\collection.csprojAssemblyReference.cache
+F:\CoDe\linkedin C#\collection\collection\obj\Debug\netcoreapp3.1\collection.AssemblyInfoInputs.cache
+F:\CoDe\linkedin C#\collection\collection\obj\Debug\netcoreapp3.1\collection.AssemblyInfo.cs
+F:\CoDe\linkedin C#\collection\collection\obj\Debug\netcoreapp3.1\collection.csproj.CoreCompileInputs.cache
+F:\CoDe\linkedin C#\collection\collection\obj\Debug\netcoreapp3.1\collection.dll
+F:\CoDe\linkedin C#\collection\collection\obj\Debug\netcoreapp3.1\collection.pdb
+F:\CoDe\linkedin C#\collection\collection\obj\Debug\netcoreapp3.1\collection.genruntimeconfig.cache
