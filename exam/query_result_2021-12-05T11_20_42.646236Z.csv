@@ -1,0 +1,604 @@
+ID,title,artist,genre_id,year,energy,dance,dur,speech,popularity
+1,"Hey, Soul Sister",Train,G_1,2010,89,67,217,4,83
+2,Love The Way You Lie,Eminem,G_2,2010,93,75,263,23,82
+3,TiK ToK,Kesha,G_3,2010,84,76,200,14,80
+4,Bad Romance,Lady Gaga,G_3,2010,92,70,295,4,79
+5,Just the Way You Are,Bruno Mars,G_4,2010,84,64,221,4,78
+6,Baby,Justin Bieber,G_5,2010,86,73,214,14,77
+7,Dynamite,Taio Cruz,G_3,2010,78,75,203,9,77
+8,Secrets,OneRepublic,G_3,2010,76,52,225,4,77
+9,Empire State of Mind (Part II) Broken Down,Alicia Keys,G_6,2010,37,48,216,3,76
+10,Only Girl (In The World),Rihanna,G_7,2010,72,79,235,4,73
+11,Club Can't Handle Me (feat. David Guetta),Flo Rida,G_3,2010,87,62,235,3,73
+12,Marry You,Bruno Mars,G_4,2010,83,62,230,4,73
+13,Cooler Than Me - Single Mix,Mike Posner,G_3,2010,82,77,213,5,73
+14,Telephone,Lady Gaga,G_3,2010,83,83,221,4,73
+15,Like A G6,Far East Movement,G_3,2010,84,44,217,45,72
+16,OMG (feat. will.i.am),Usher,G_8,2010,75,78,269,3,72
+17,Eenie Meenie,Sean Kingston,G_3,2010,61,72,202,3,71
+18,The Time (Dirty Bit),The Black Eyed Peas,G_3,2010,81,82,308,7,70
+19,Alejandro,Lady Gaga,G_3,2010,80,63,274,5,69
+20,Your Love Is My Drug,Kesha,G_3,2010,61,83,187,10,69
+21,Meet Me Halfway,The Black Eyed Peas,G_3,2010,63,80,284,7,68
+22,Whataya Want from Me,Adam Lambert,G_9,2010,68,44,227,5,66
+23,Take It Off,Kesha,G_3,2010,68,73,215,3,66
+24,Misery,Maroon 5,G_4,2010,81,70,216,4,65
+25,All The Right Moves,OneRepublic,G_3,2010,95,53,238,5,65
+26,Animal,Neon Trees,G_10,2010,83,48,212,4,65
+27,Naturally,Selena Gomez & The Scene,G_3,2010,90,61,203,5,64
+28,I Like It,Enrique Iglesias,G_3,2010,94,65,231,9,63
+29,Teenage Dream,Katy Perry,G_3,2010,80,72,228,4,63
+30,California Gurls,Katy Perry,G_3,2010,75,79,235,5,62
+31,3,Britney Spears,G_3,2010,71,70,213,5,62
+32,My First Kiss - feat. Ke$ha,3OH!3,G_3,2010,89,68,192,8,62
+33,Blah Blah Blah (feat. 3OH!3),Kesha,G_3,2010,84,75,172,12,62
+34,Imma Be,The Black Eyed Peas,G_3,2010,52,60,258,37,62
+35,Try Sleeping with a Broken Heart,Alicia Keys,G_6,2010,82,50,249,11,62
+36,Sexy Bitch (feat. Akon),David Guetta,G_3,2010,63,81,196,5,61
+37,Bound To You - Burlesque Original Motion Picture Soundtrack,Christina Aguilera,G_3,2010,41,29,264,3,61
+38,If I Had You,Adam Lambert,G_9,2010,91,65,228,11,59
+39,Rock That Body,The Black Eyed Peas,G_3,2010,91,72,269,10,59
+40,Dog Days Are Over,Florence + The Machine,G_11,2010,81,50,253,9,58
+41,Something's Got A Hold On Me - Burlesque Original Motion Picture Soundtrack,Christina Aguilera,G_3,2010,85,51,185,27,58
+42,Doesn't Mean Anything,Alicia Keys,G_6,2010,41,71,273,3,57
+43,Hard,Rihanna,G_7,2010,75,31,251,11,57
+44,Loca,Shakira,G_12,2010,87,80,193,7,56
+45,You Lost Me,Christina Aguilera,G_3,2010,39,23,257,4,56
+46,Not Myself Tonight,Christina Aguilera,G_3,2010,81,76,186,4,55
+47,Written in the Stars (feat. Eric Turner),Tinie Tempah,G_3,2010,95,64,220,7,52
+48,DJ Got Us Fallin' In Love (feat. Pitbull),Usher,G_8,2010,86,66,221,11,52
+49,Castle Walls (feat. Christina Aguilera),T.I.,G_8,2010,86,45,329,39,49
+50,Break Your Heart,Taio Cruz,G_3,2010,90,67,186,3,33
+51,Hello,Martin Solveig,G_13,2010,98,67,191,3,0
+52,A Thousand Years,Christina Perri,G_3,2011,41,42,285,3,81
+53,Someone Like You,Adele,G_14,2011,33,56,285,3,80
+54,Give Me Everything,Pitbull,G_3,2011,94,67,252,16,79
+55,Just the Way You Are,Bruno Mars,G_4,2011,84,64,221,4,78
+56,Rolling in the Deep,Adele,G_14,2011,76,73,228,3,76
+57,Run the World (Girls),Beyoncé,G_3,2011,90,73,236,14,76
+58,Moves Like Jagger - Studio Recording From The Voice Performance,Maroon 5,G_4,2011,76,72,201,5,76
+59,Love On Top,Beyoncé,G_3,2011,75,65,267,9,76
+60,Grenade,Bruno Mars,G_4,2011,56,71,223,6,75
+61,Tonight Tonight,Hot Chelle Rae,G_3,2011,78,69,200,12,75
+62,What the Hell,Avril Lavigne,G_5,2011,93,58,221,5,74
+63,Born This Way,Lady Gaga,G_3,2011,83,59,260,16,73
+64,Monster,Kanye West,G_15,2011,69,63,379,20,73
+65,Marry You,Bruno Mars,G_4,2011,83,62,230,4,73
+66,Best Thing I Never Had,Beyoncé,G_3,2011,65,55,254,3,73
+67,Party Rock Anthem,LMFAO,G_3,2011,74,75,262,16,72
+68,We R Who We R,Kesha,G_3,2011,82,74,205,4,72
+69,Price Tag,Jessie J,G_9,2011,83,64,223,18,72
+70,Good Life,OneRepublic,G_3,2011,69,63,253,5,72
+71,Just Can’t Get Enough,The Black Eyed Peas,G_3,2011,63,66,219,18,71
+72,On The Floor,Jennifer Lopez,G_3,2011,78,73,285,5,69
+73,What's My Name?,Rihanna,G_7,2011,79,69,263,7,69
+74,Yeah 3x,Chris Brown,G_3,2011,88,71,242,4,69
+75,Without You (feat. Usher),David Guetta,G_3,2011,61,61,208,3,68
+76,Sexy And I Know It,LMFAO,G_3,2011,86,71,199,32,67
+77,The Edge Of Glory,Lady Gaga,G_3,2011,77,58,321,4,67
+78,E.T.,Katy Perry,G_3,2011,87,62,230,18,66
+79,Till the World Ends,Britney Spears,G_3,2011,71,69,238,7,65
+80,I Wanna Go,Britney Spears,G_3,2011,55,70,210,4,64
+81,Blow,Kesha,G_3,2011,73,75,220,4,64
+82,You And I,Lady Gaga,G_3,2011,70,52,307,5,64
+83,Judas,Lady Gaga,G_3,2011,93,66,249,7,63
+84,Tonight (I'm Fuckin' You),Enrique Iglesias,G_3,2011,89,65,232,5,63
+85,Please Don't Go,Mike Posner,G_3,2011,88,70,197,3,63
+86,We Found Love,Rihanna,G_7,2011,77,73,215,4,61
+87,Marry The Night,Lady Gaga,G_3,2011,88,61,265,6,61
+88,1+1,Beyoncé,G_3,2011,38,30,274,3,60
+89,Hold It Against Me,Britney Spears,G_3,2011,72,65,229,4,59
+90,I'm Into You,Jennifer Lopez,G_3,2011,75,59,200,14,59
+91,Papi,Jennifer Lopez,G_3,2011,81,71,223,6,58
+92,Cheers (Drink To That),Rihanna,G_7,2011,91,58,262,4,58
+93,S&M Remix,Rihanna,G_7,2011,81,82,257,5,54
+94,Written in the Stars (feat. Eric Turner),Tinie Tempah,G_3,2011,95,64,220,7,52
+95,Jar of Hearts,Christina Perri,G_3,2011,35,35,247,3,50
+96,Castle Walls (feat. Christina Aguilera),T.I.,G_8,2011,86,45,329,39,49
+97,Turning Page,Sleeping At Last,G_16,2011,38,30,255,3,46
+98,Super Bass,Nicki Minaj,G_3,2011,74,77,201,23,38
+99,Raise Your Glass,P!nk,G_3,2011,64,68,208,12,38
+100,Invading My Mind,Jennifer Lopez,G_3,2011,88,73,201,7,31
+101,Moment 4 Life - Album Version (Edited),Nicki Minaj,G_3,2011,88,50,279,38,28
+102,Last Friday Night (T.G.I.F.),Katy Perry,G_3,2011,81,65,231,4,27
+103,Firework,Katy Perry,G_3,2011,83,64,228,5,25
+104,Muny - Album Version (Edited),Nicki Minaj,G_3,2011,72,80,227,33,7
+105,Titanium (feat. Sia),David Guetta,G_3,2012,79,60,245,10,80
+106,Locked Out of Heaven,Bruno Mars,G_4,2012,70,73,233,4,79
+107,Paradise,Coldplay,G_17,2012,59,45,279,3,79
+108,Payphone,Maroon 5,G_4,2012,75,74,231,4,79
+109,What Makes You Beautiful,One Direction,G_18,2012,79,73,200,7,78
+110,I Knew You Were Trouble.,Taylor Swift,G_4,2012,47,62,220,4,77
+111,Call Me Maybe,Carly Rae Jepsen,G_5,2012,58,78,193,4,76
+112,Love You Like A Love Song,Selena Gomez & The Scene,G_3,2012,68,86,188,5,76
+113,Set Fire to the Rain,Adele,G_14,2012,68,61,242,3,76
+114,We Are Never Ever Getting Back Together,Taylor Swift,G_4,2012,68,63,193,9,75
+115,Stronger (What Doesn't Kill You),Kelly Clarkson,G_3,2012,94,56,222,5,74
+116,Try,P!nk,G_3,2012,63,67,248,3,74
+117,Starships,Nicki Minaj,G_3,2012,72,75,211,8,73
+118,One More Night,Maroon 5,G_4,2012,82,72,220,3,73
+119,Good Time,Owl City,G_4,2012,87,56,206,14,73
+120,Glad You Came,The Wanted,G_18,2012,85,72,198,6,72
+121,Beauty And A Beat,Justin Bieber,G_5,2012,84,60,228,6,72
+122,International Love,Pitbull,G_3,2012,86,67,227,5,72
+123,Some Nights,fun.,G_19,2012,74,67,277,5,72
+124,Boyfriend,Justin Bieber,G_5,2012,55,72,171,5,71
+125,Part Of Me,Katy Perry,G_3,2012,92,68,216,4,71
+126,Domino,Jessie J,G_9,2012,55,76,232,3,69
+127,Where Have You Been,Rihanna,G_7,2012,85,72,243,9,68
+128,Wide Awake,Katy Perry,G_3,2012,68,51,221,4,68
+129,The One That Got Away,Katy Perry,G_3,2012,80,69,227,4,67
+130,Dance Again,Jennifer Lopez,G_3,2012,86,79,237,7,66
+131,Turn Up the Music,Chris Brown,G_3,2012,84,59,228,10,65
+132,Lights - Single Version,Ellie Goulding,G_3,2012,80,68,211,4,65
+133,We Are Young (feat. Janelle Monáe),fun.,G_19,2012,64,38,251,8,63
+134,Diamonds,Rihanna,G_7,2012,71,56,225,5,61
+135,Don't Stop the Party (feat. TJR),Pitbull,G_3,2012,96,72,206,9,59
+136,You Da One,Rihanna,G_7,2012,72,70,200,4,57
+137,Stereo Hearts (feat. Adam Levine),Gym Class Heroes,G_3,2012,80,65,211,10,54
+138,It Will Rain,Bruno Mars,G_4,2012,84,58,258,5,38
+139,Blow Me (One Last Kiss),P!nk,G_3,2012,92,60,256,4,0
+140,Underneath the Tree,Kelly Clarkson,G_3,2013,81,51,230,5,88
+141,Wake Me Up,Avicii,G_13,2013,78,53,247,5,85
+142,Story of My Life,One Direction,G_18,2013,66,60,245,5,81
+143,Just Give Me a Reason (feat. Nate Ruess),P!nk,G_3,2013,55,78,243,5,81
+144,Hall of Fame,The Script,G_20,2013,87,42,203,6,80
+145,Roar,Katy Perry,G_3,2013,77,55,224,4,78
+146,We Can't Stop,Miley Cyrus,G_3,2013,62,61,231,3,78
+147,Don't You Worry Child - Radio Edit,Swedish House Mafia,G_13,2013,84,61,213,5,78
+148,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Daft Punk,G_21,2013,81,79,248,4,77
+149,Wrecking Ball,Miley Cyrus,G_3,2013,42,53,221,3,77
+150,Impossible,James Arthur,G_4,2013,70,38,209,9,77
+151,Blurred Lines,Robin Thicke,G_3,2013,60,85,264,4,76
+152,Heart Attack,Demi Lovato,G_3,2013,79,50,211,10,76
+153,We Are Never Ever Getting Back Together,Taylor Swift,G_4,2013,68,63,193,9,75
+154,Die Young,Kesha,G_3,2013,70,71,212,5,75
+155,Clarity,Zedd,G_22,2013,78,51,271,7,75
+156,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,G_11,2013,81,57,215,6,74
+157,Under Control,Calvin Harris,G_3,2013,92,54,184,8,74
+158,Everybody Talks,Neon Trees,G_10,2013,92,47,177,6,74
+159,"Hold On, We're Going Home",Drake,G_23,2013,41,77,228,10,73
+160,Best Song Ever,One Direction,G_18,2013,88,65,200,5,73
+161,Kiss You,One Direction,G_18,2013,93,63,183,6,73
+162,Sweet Nothing (feat. Florence Welch),Calvin Harris,G_3,2013,93,57,213,11,72
+163,Lose Yourself to Dance,Daft Punk,G_21,2013,66,83,354,6,72
+164,Work Bitch,Britney Spears,G_3,2013,82,63,248,16,71
+165,Brave,Sara Bareilles,G_16,2013,84,55,221,5,71
+166,Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,G_3,2013,93,63,258,8,70
+167,Feel This Moment (feat. Christina Aguilera),Pitbull,G_3,2013,76,67,230,16,70
+168,Beneath Your Beautiful,Labrinth,G_4,2013,52,56,272,4,70
+169,Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,G_3,2013,68,66,252,4,70
+170,Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,G_3,2013,53,78,236,29,69
+171,If I Lose Myself - Alesso vs OneRepublic,OneRepublic,G_3,2013,75,52,215,4,69
+172,The Way,Ariana Grande,G_3,2013,88,65,227,11,68
+173,Suit & Tie,Justin Timberlake,G_3,2013,60,80,326,22,68
+174,#thatPOWER,will.i.am,G_3,2013,61,80,280,6,68
+175,I Love It (feat. Charli XCX),Icona Pop,G_24,2013,91,71,157,3,67
+176,Play Hard (feat. Ne-Yo & Akon) - New Edit,David Guetta,G_3,2013,87,72,209,4,67
+177,Daylight,Maroon 5,G_4,2013,67,66,225,3,66
+178,Love Somebody,Maroon 5,G_4,2013,78,68,230,4,65
+179,A Little Party Never Killed Nobody (All We Got),Fergie,G_3,2013,62,76,241,18,65
+180,Move,Little Mix,G_3,2013,74,85,224,9,63
+181,Walks Like Rihanna,The Wanted,G_18,2013,82,56,202,6,62
+182,Rock N Roll,Avril Lavigne,G_5,2013,96,47,207,13,61
+183,Heartbreaker,Justin Bieber,G_5,2013,52,56,263,10,61
+184,Mirrors - Radio Edit,Justin Timberlake,G_3,2013,60,58,277,5,60
+185,Next To Me,Emeli Sandé,G_3,2013,80,67,197,4,60
+186,Made In The USA,Demi Lovato,G_3,2013,86,58,196,4,60
+187,Clown,Emeli Sandé,G_3,2013,23,45,221,4,60
+188,Girl On Fire (feat. Nicki Minaj) - Inferno Version,Alicia Keys,G_6,2013,81,55,271,31,59
+189,TKO,Justin Timberlake,G_3,2013,68,61,424,24,58
+190,Come & Get It,Selena Gomez,G_3,2013,79,55,232,5,57
+191,Live It Up,Jennifer Lopez,G_3,2013,73,69,244,17,57
+192,We Own The Night,The Wanted,G_18,2013,94,55,206,13,56
+193,Atlas - From “The Hunger Games: Catching Fire” Soundtrack,Coldplay,G_17,2013,45,28,236,3,55
+194,What About Love,Austin Mahone,G_3,2013,78,63,203,4,54
+195,Take Back the Night,Justin Timberlake,G_3,2013,66,59,353,16,54
+196,Applause,Lady Gaga,G_3,2013,78,67,212,5,52
+197,Anything Could Happen,Ellie Goulding,G_3,2013,78,70,286,3,52
+198,Finally Found You,Enrique Iglesias,G_3,2013,88,62,221,10,52
+199,Pom Poms,Jonas Brothers,G_18,2013,98,68,198,9,52
+200,#Beautiful,Mariah Carey,G_3,2013,76,68,200,4,51
+201,How Ya Doin'? (feat. Missy Elliott),Little Mix,G_3,2013,95,36,211,48,50
+202,Crazy Kids (feat. will.i.am),Kesha,G_3,2013,75,72,229,4,46
+203,"Ooh La La (from ""The Smurfs 2"""")""",Britney Spears,G_3,2013,57,69,257,5,45
+204,People Like Us,Kelly Clarkson,G_3,2013,79,60,259,4,45
+205,Overdose,Ciara,G_3,2013,70,77,227,3,43
+206,Right Now - Dyro Radio Edit,Rihanna,G_7,2013,74,53,186,4,42
+207,Give It 2 U,Robin Thicke,G_3,2013,83,67,230,7,41
+208,Foolish Games,Jewel,G_25,2013,34,51,250,3,36
+209,Outta Nowhere (feat. Danny Mercer),Pitbull,G_3,2013,84,71,207,3,35
+210,Freak,Kelly Rowland,G_8,2013,78,65,274,6,28
+211,All of Me,John Legend,G_1,2014,26,42,270,3,86
+212,Stay With Me,Sam Smith,G_4,2014,42,42,173,4,85
+213,Summer,Calvin Harris,G_3,2014,86,60,223,3,80
+214,"Happy - From ""Despicable Me 2""""""",Pharrell Williams,G_3,2014,82,65,233,18,79
+215,Rude,MAGIC!,G_4,2014,76,77,225,4,79
+216,Shake It Off,Taylor Swift,G_4,2014,80,65,219,17,78
+217,Dark Horse,Katy Perry,G_3,2014,59,65,216,5,78
+218,Hey Brother,Avicii,G_13,2014,78,55,255,4,78
+219,Maps,Maroon 5,G_4,2014,71,74,190,3,78
+220,Treasure,Bruno Mars,G_4,2014,69,87,179,4,77
+221,Let Her Go,Passenger,G_26,2014,54,51,253,6,77
+222,Problem,Ariana Grande,G_3,2014,81,66,194,15,75
+223,Pompeii,Bastille,G_27,2014,72,68,214,4,73
+224,Team,Lorde,G_11,2014,58,69,193,9,73
+225,Love Me Again,John Newman,G_4,2014,89,50,240,4,73
+226,Latch,Disclosure,G_28,2014,73,50,256,17,72
+227,Adore You,Miley Cyrus,G_3,2014,66,58,279,3,72
+228,Love Never Felt So Good,Michael Jackson,G_4,2014,72,78,246,4,71
+229,Burn,Ellie Goulding,G_3,2014,78,56,231,4,71
+230,She Looks So Perfect,5 Seconds of Summer,G_18,2014,95,49,202,13,71
+231,Fancy,Iggy Azalea,G_29,2014,72,91,200,7,70
+232,Talk Dirty (feat. 2 Chainz),Jason Derulo,G_3,2014,65,76,178,23,68
+233,Gorilla,Bruno Mars,G_4,2014,54,72,244,4,68
+234,human,Christina Perri,G_3,2014,49,44,251,4,68
+235,Young Girls,Bruno Mars,G_4,2014,75,56,229,3,67
+236,Wiggle (feat. Snoop Dogg),Jason Derulo,G_3,2014,62,70,193,25,67
+237,Love Runs Out,OneRepublic,G_3,2014,93,72,225,6,66
+238,This Is How We Do,Katy Perry,G_3,2014,64,69,204,5,66
+239,Mmm Yeah (feat. Pitbull),Austin Mahone,G_3,2014,92,71,232,4,65
+240,A Little Party Never Killed Nobody (All We Got),Fergie,G_3,2014,62,76,241,18,65
+241,#SELFIE,The Chainsmokers,G_30,2014,92,79,184,25,65
+242,Partition,Beyoncé,G_3,2014,44,41,319,29,65
+243,Birthday,Katy Perry,G_3,2014,67,72,215,7,65
+244,G.U.Y.,Lady Gaga,G_3,2014,92,62,233,4,65
+245,Stay The Night - Featuring Hayley Williams Of Paramore,Zedd,G_22,2014,74,60,217,4,64
+246,"Let It Go - From ""Frozen / Single Version""",Demi Lovato,G_3,2014,66,50,226,4,63
+247,Wings,Birdy,G_1,2014,71,47,252,3,62
+248,Can't Remember to Forget You (feat. Rihanna),Shakira,G_12,2014,81,69,207,7,62
+249,Shot Me Down (feat. Skylar Grey) - Radio Edit,David Guetta,G_3,2014,77,35,191,5,61
+250,Say Something,A Great Big World,G_1,2014,15,45,229,3,61
+251,A Sky Full of Stars,Coldplay,G_17,2014,68,55,268,3,60
+252,Come Get It Bae,Pharrell Williams,G_3,2014,80,93,202,8,59
+253,Chandelier,Sia,G_31,2014,78,29,216,7,56
+254,XO,Beyoncé,G_3,2014,79,47,216,26,56
+255,We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song],Pitbull,G_3,2014,94,60,222,7,56
+256,Not About Angels,Birdy,G_1,2014,14,41,190,4,56
+257,Drunk in Love,Beyoncé,G_3,2014,62,59,323,5,52
+258,Anaconda,Nicki Minaj,G_3,2014,60,96,260,18,50
+259,Boom Clap - From the Motion Picture Das Schicksal ist ein mieser Verräter,Charli XCX,G_24,2014,81,68,169,6,50
+260,La La La (Brasil 2014) (feat. Carlinhos Brown),Shakira,G_12,2014,82,80,198,4,50
+261,Tee Shirt - Soundtrack Version,Birdy,G_1,2014,34,68,160,3,49
+262,Words as Weapons,Birdy,G_1,2014,35,53,239,3,44
+263,You're Mine (Eternal),Mariah Carey,G_3,2014,58,63,224,7,38
+264,Sheezus,Lily Allen,G_3,2014,50,78,235,4,37
+265,Cannonball,Lea Michele,G_32,2014,82,56,215,5,37
+266,It's On Again - Main Soundtrack,Alicia Keys,G_6,2014,54,64,230,11,30
+267,I Luh Ya Papi,Jennifer Lopez,G_3,2014,73,74,207,42,28
+268,Not a Bad Thing,Justin Timberlake,G_3,2014,73,59,266,6,0
+269,Thinking out Loud,Ed Sheeran,G_4,2015,45,78,282,3,84
+270,I'm Not The Only One,Sam Smith,G_4,2015,49,68,239,4,84
+271,The Hills,The Weeknd,G_33,2015,56,58,242,5,84
+272,Love Yourself,Justin Bieber,G_5,2015,38,61,234,44,83
+273,Uptown Funk,Mark Ronson,G_3,2015,61,86,270,8,82
+274,Take Me To Church,Hozier,G_34,2015,66,57,242,5,81
+275,Sugar,Maroon 5,G_4,2015,79,75,235,3,81
+276,Sorry,Justin Bieber,G_5,2015,76,65,201,5,81
+277,FourFiveSeconds,Rihanna,G_7,2015,27,58,188,5,80
+278,"Love Me Like You Do - From ""Fifty Shades Of Grey""""""",Ellie Goulding,G_3,2015,61,26,253,5,79
+279,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"""" Soundtrack""",The Weeknd,G_33,2015,38,66,252,3,79
+280,What Do You Mean?,Justin Bieber,G_5,2015,57,85,206,10,79
+281,Stitches,Shawn Mendes,G_5,2015,75,75,207,7,78
+282,Want to Want Me,Jason Derulo,G_3,2015,68,78,208,6,77
+283,My House,Flo Rida,G_3,2015,70,69,192,5,77
+284,Waves - Robin Schulz Radio Edit,Mr. Probz,G_35,2015,51,83,208,4,77
+285,Night Changes,One Direction,G_18,2015,52,67,227,4,77
+286,How Deep Is Your Love,Calvin Harris,G_3,2015,87,74,213,7,77
+287,Never Forget You,Zara Larsson,G_3,2015,73,58,213,5,77
+288,Love Me Harder,Ariana Grande,G_3,2015,71,47,236,3,76
+289,Animals,Maroon 5,G_4,2015,74,28,231,9,76
+290,Blame,Calvin Harris,G_3,2015,86,41,213,8,76
+291,Worth It,Fifth Harmony,G_3,2015,77,88,225,9,75
+292,Break Free,Ariana Grande,G_3,2015,70,69,215,5,75
+293,Don't,Ed Sheeran,G_4,2015,61,81,220,7,74
+294,Elastic Heart,Sia,G_31,2015,79,42,257,5,73
+295,Rather Be (feat. Jess Glynne),Clean Bandit,G_3,2015,59,80,228,4,73
+296,Hello,Adele,G_14,2015,45,48,295,3,73
+297,Dear Future Husband,Meghan Trainor,G_3,2015,78,66,184,19,72
+298,43776,Beyoncé,G_3,2015,71,75,214,13,72
+299,The Heart Wants What It Wants,Selena Gomez,G_3,2015,79,62,227,4,72
+300,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",David Guetta,G_3,2015,73,60,193,15,72
+301,Genie In a Bottle,Christina Aguilera,G_3,2015,80,63,218,16,72
+302,Company,Justin Bieber,G_5,2015,80,59,208,6,72
+303,Sing,Ed Sheeran,G_4,2015,67,82,235,5,71
+304,Jealous - Remix,Nick Jonas,G_3,2015,71,68,222,8,70
+305,Really Don't Care,Demi Lovato,G_3,2015,73,71,202,9,70
+306,"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",Macklemore & Ryan Lewis,G_3,2015,61,83,293,7,70
+307,Only Love Can Hurt Like This,Paloma Faith,G_14,2015,89,57,233,8,69
+308,Heartbeat Song,Kelly Clarkson,G_3,2015,80,49,199,5,69
+309,Up,Olly Murs,G_3,2015,85,69,224,3,69
+310,Trumpets,Jason Derulo,G_3,2015,70,63,217,24,69
+311,Runnin' (Lose It All),Naughty Boy,G_35,2015,85,32,213,8,69
+312,Same Old Love,Selena Gomez,G_3,2015,59,67,229,3,69
+313,I Want You To Know,Zedd,G_22,2015,85,58,240,6,68
+314,Lips Are Movin,Meghan Trainor,G_3,2015,83,78,183,5,68
+315,I'll Show You,Justin Bieber,G_5,2015,61,36,200,10,68
+316,Here,Alessia Cara,G_33,2015,82,38,199,10,68
+317,I Lived,OneRepublic,G_3,2015,85,59,235,4,67
+318,Fireball (feat. John Ryan),Pitbull,G_3,2015,94,69,235,6,67
+319,Easy Love,Sigala,G_3,2015,94,68,230,6,67
+320,The Feeling,Justin Bieber,G_5,2015,81,53,245,6,67
+321,I Really Like You,Carly Rae Jepsen,G_5,2015,81,62,205,4,66
+322,BO$$,Fifth Harmony,G_3,2015,87,81,171,11,66
+323,Sugar,Maroon 5,G_4,2015,79,75,235,3,66
+324,Focus,Ariana Grande,G_3,2015,88,67,211,24,66
+325,All About That Bass,Meghan Trainor,G_3,2015,88,81,189,5,65
+326,On My Mind,Ellie Goulding,G_3,2015,71,70,213,5,65
+327,Love Me Like You,Little Mix,G_3,2015,67,79,198,4,65
+328,Broken Arrows,Avicii,G_13,2015,67,63,233,5,65
+329,Booty,Jennifer Lopez,G_3,2015,95,71,210,5,64
+330,What Do You Mean? - Acoustic,Justin Bieber,G_5,2015,36,77,204,4,64
+331,Mark My Words,Justin Bieber,G_5,2015,26,38,134,3,63
+332,Lay It All on Me,Rudimental,G_3,2015,75,67,242,4,62
+333,American Oxygen,Rihanna,G_7,2015,75,39,320,9,61
+334,Bang Bang,Jessie J,G_9,2015,75,71,199,9,61
+335,Reality - Radio Edit,Lost Frequencies,G_36,2015,70,71,159,3,61
+336,Alive,Sia,G_31,2015,76,51,264,5,61
+337,Sugar (feat. Francesco Yates),Robin Schulz,G_3,2015,82,64,219,6,60
+338,Been You,Justin Bieber,G_5,2015,78,74,199,7,60
+339,Prayer in C - Robin Schulz Radio Edit,Lilly Wood and The Prick,G_37,2015,89,76,189,3,58
+340,See You Again (feat. Charlie Puth),Wiz Khalifa,G_38,2015,48,69,230,8,56
+341,Heroes (we could be),Alesso,G_13,2015,75,52,210,6,56
+342,"Feel The Light - From The ""Home"""" Soundtrack""",Jennifer Lopez,G_3,2015,60,47,292,5,55
+343,Perfect,One Direction,G_18,2015,82,65,230,8,55
+344,Ghosttown,Madonna,G_3,2015,55,54,250,4,54
+345,Bang My Head (feat. Sia & Fetty Wap),David Guetta,G_3,2015,87,60,193,8,54
+346,Bloodstream,Ed Sheeran,G_4,2015,59,48,309,5,52
+347,Living For Love,Madonna,G_3,2015,79,67,219,9,52
+348,Baby Don't Lie,Gwen Stefani,G_3,2015,55,69,203,3,52
+349,Don't Be so Hard on Yourself,Jess Glynne,G_3,2015,82,57,211,3,52
+350,Steal My Girl,One Direction,G_18,2015,76,47,227,4,51
+351,"Celebrate (From the Original Motion Picture ""Penguins of Madagascar"""")""",Pitbull,G_3,2015,85,68,193,6,50
+352,We Are Here,Alicia Keys,G_6,2015,67,64,285,4,49
+353,St Jude,Florence + The Machine,G_11,2015,43,26,225,3,47
+354,Yesterday (feat. Bebe Rexha),David Guetta,G_3,2015,78,57,243,3,46
+355,Time of Our Lives,Pitbull,G_3,2015,80,72,229,6,45
+356,Sparks,Hilary Duff,G_3,2015,88,85,186,6,44
+357,Mr. Put It Down,Ricky Martin,G_3,2015,78,80,196,18,42
+358,Legendary Lovers,Katy Perry,G_3,2015,84,62,224,8,41
+359,Spark The Fire,Gwen Stefani,G_3,2015,80,88,202,6,39
+360,Run Run Run,Kelly Clarkson,G_3,2015,37,28,273,4,36
+361,Let Me Be Your Lover,Enrique Iglesias,G_3,2015,90,72,238,13,34
+362,Dangerous,Jennifer Hudson,G_3,2015,53,90,255,5,18
+363,L.A.LOVE (la la),Fergie,G_3,2015,39,48,193,9,0
+364,The Hills,The Weeknd,G_33,2016,56,58,242,5,84
+365,Love Yourself,Justin Bieber,G_5,2016,38,61,234,44,83
+366,Cake By The Ocean,DNCE,G_3,2016,75,77,219,5,81
+367,Don't Let Me Down,The Chainsmokers,G_30,2016,87,53,208,17,81
+368,In the Name of Love,Martin Garrix,G_13,2016,52,50,196,4,81
+369,Into You,Ariana Grande,G_3,2016,73,62,244,11,80
+370,This Is What You Came For,Calvin Harris,G_3,2016,93,63,222,3,80
+371,Million Reasons,Lady Gaga,G_3,2016,42,67,205,4,80
+372,Needed Me,Rihanna,G_7,2016,31,67,192,24,80
+373,7 Years,Lukas Graham,G_39,2016,47,77,237,5,80
+374,"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"""")""",Justin Timberlake,G_3,2016,83,67,236,7,79
+375,Work from Home (feat. Ty Dolla $ign),Fifth Harmony,G_3,2016,59,80,214,4,79
+376,Scars To Your Beautiful,Alessia Cara,G_33,2016,74,57,230,13,79
+377,Like I'm Gonna Lose You (feat. John Legend),Meghan Trainor,G_3,2016,53,63,225,4,79
+378,Work,Rihanna,G_7,2016,53,73,219,9,78
+379,Stitches,Shawn Mendes,G_5,2016,75,75,207,7,78
+380,"Me, Myself & I",G-Eazy,G_38,2016,67,76,251,10,78
+381,I Took A Pill In Ibiza - Seeb Remix,Mike Posner,G_3,2016,71,66,198,11,78
+382,Dangerous Woman,Ariana Grande,G_3,2016,60,66,236,4,78
+383,Starving,Hailee Steinfeld,G_3,2016,62,73,182,6,78
+384,Shout Out to My Ex,Little Mix,G_3,2016,75,77,246,9,77
+385,Electric Love,BØRNS,G_30,2016,80,61,218,5,76
+386,Confident,Demi Lovato,G_3,2016,75,59,206,7,75
+387,Too Good,Drake,G_23,2016,65,79,263,10,74
+388,Roses,The Chainsmokers,G_30,2016,80,71,227,6,74
+389,Cold Water (feat. Justin Bieber & MØ),Major Lazer,G_3,2016,80,61,185,4,73
+390,Me Too,Meghan Trainor,G_3,2016,69,93,181,10,73
+391,Light It Up (feat. Nyla & Fuse ODG) [Remix],Major Lazer,G_3,2016,88,75,166,7,73
+392,Ain't Your Mama,Jennifer Lopez,G_3,2016,68,76,218,23,72
+393,Close,Nick Jonas,G_3,2016,62,65,234,8,72
+394,Toothbrush,DNCE,G_3,2016,79,55,232,13,72
+395,All We Know,The Chainsmokers,G_30,2016,59,66,194,3,72
+396,Final Song,MØ,G_3,2016,67,70,236,3,72
+397,Company,Justin Bieber,G_5,2016,80,59,208,6,72
+398,Hands To Myself,Selena Gomez,G_3,2016,50,81,201,12,71
+399,All I Ask,Adele,G_14,2016,28,59,272,3,71
+400,"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"""")""",P!nk,G_3,2016,70,63,215,15,71
+401,NO,Meghan Trainor,G_3,2016,80,56,214,22,70
+402,Kill Em With Kindness,Selena Gomez,G_3,2016,88,76,218,4,70
+403,Cool Girl,Tove Lo,G_3,2016,69,67,199,11,69
+404,Runnin' (Lose It All),Naughty Boy,G_35,2016,85,32,213,8,69
+405,Here,Alessia Cara,G_33,2016,82,38,199,10,68
+406,Perfect Illusion,Lady Gaga,G_3,2016,86,61,182,4,67
+407,PILLOWTALK,ZAYN,G_3,2016,70,59,204,5,66
+408,Out Of The Woods,Taylor Swift,G_4,2016,84,55,236,4,66
+409,Rise,Katy Perry,G_3,2016,64,55,203,5,66
+410,Wherever I Go,OneRepublic,G_3,2016,69,55,170,4,66
+411,Body Say,Demi Lovato,G_3,2016,74,63,194,4,65
+412,Don't Be A Fool,Shawn Mendes,G_5,2016,34,47,216,4,65
+413,LIKE I WOULD,ZAYN,G_3,2016,83,56,192,11,65
+414,Cheap Thrills,Sia,G_31,2016,80,59,225,22,64
+415,I Got You,Bebe Rexha,G_3,2016,89,61,192,5,64
+416,Run Away With Me,Carly Rae Jepsen,G_5,2016,72,56,251,5,63
+417,Cruel (feat. ZAYN),Snakehips,G_3,2016,88,60,228,12,63
+418,Send My Love (To Your New Lover),Adele,G_14,2016,52,69,223,10,61
+419,WTF (Where They From),Missy Elliott,G_3,2016,82,93,193,20,58
+420,Desire,Years & Years,G_3,2016,78,71,203,6,58
+421,When We Were Young,Adele,G_14,2016,59,38,291,5,58
+422,I Know What You Did Last Summer,Shawn Mendes,G_5,2016,77,68,224,10,57
+423,Wish That You Were Here - From “Miss Peregrine’s Home for Peculiar Children” Original Motion Picture,Florence + The Machine,G_11,2016,57,37,403,3,57
+424,Hurts,Emeli Sandé,G_3,2016,64,58,238,3,57
+425,Change,Christina Aguilera,G_3,2016,54,62,187,8,54
+426,Make Me... (feat. G-Eazy),Britney Spears,G_3,2016,70,70,231,10,53
+427,Keeping Your Head Up,Birdy,G_1,2016,78,60,208,5,52
+428,True Colors,Zedd,G_22,2016,79,57,225,4,51
+429,Make Me Like You,Gwen Stefani,G_3,2016,71,74,217,5,50
+430,Champagne Problems,Nick Jonas,G_3,2016,78,73,193,13,50
+431,Blown,DNCE,G_3,2016,95,63,197,4,48
+432,Start,John Legend,G_1,2016,4,52,310,4,47
+433,Pep Rally,Missy Elliott,G_3,2016,75,83,263,12,47
+434,Higher,Carly Rae Jepsen,G_5,2016,87,65,234,6,46
+435,Invitation,Britney Spears,G_3,2016,65,37,200,11,44
+436,One Call Away (feat. Tyga) - Remix,Charlie Puth,G_3,2016,69,75,192,4,41
+437,Beautiful Birds (feat. Birdy),Passenger,G_26,2016,17,39,214,3,36
+438,Little Lies,Hilary Duff,G_3,2016,76,57,204,6,36
+439,Do You Wanna Come Over?,Britney Spears,G_3,2016,70,75,203,7,34
+440,BURNITUP!,Janet Jackson,G_3,2016,71,83,250,18,31
+441,Picky - Remix,Joey Montana,G_40,2016,81,70,225,7,29
+442,Behind Your Back,Nelly Furtado,G_41,2016,47,80,228,4,18
+443,Million Years Ago,Adele,G_14,2016,0,0,227,0,0
+444,Shape of You,Ed Sheeran,G_4,2017,65,83,234,8,87
+445,Closer,The Chainsmokers,G_30,2017,52,75,245,3,86
+446,Starboy,The Weeknd,G_33,2017,59,68,230,28,85
+447,Treat You Better,Shawn Mendes,G_5,2017,82,44,188,34,84
+448,That's What I Like,Bruno Mars,G_4,2017,56,85,207,4,83
+449,Let Me Love You,DJ Snake,G_42,2017,72,65,206,3,82
+450,I Feel It Coming,The Weeknd,G_33,2017,82,77,269,12,81
+451,Mercy,Shawn Mendes,G_5,2017,66,56,209,8,81
+452,Side To Side,Ariana Grande,G_3,2017,74,65,226,23,80
+453,Stay,Zedd,G_22,2017,62,69,210,6,80
+454,It Ain't Me (with Selena Gomez),Kygo,G_43,2017,53,64,221,7,79
+455,Malibu,Miley Cyrus,G_3,2017,78,57,232,6,78
+456,Something Just Like This,The Chainsmokers,G_30,2017,65,61,248,4,78
+457,Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,G_3,2017,76,72,251,5,78
+458,I Don’t Wanna Live Forever (Fifty Shades Darker),ZAYN,G_3,2017,45,74,245,6,78
+459,My Way,Calvin Harris,G_3,2017,91,82,219,4,78
+460,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",DJ Khaled,G_3,2017,67,61,289,4,77
+461,Praying,Kesha,G_3,2017,39,58,230,3,77
+462,Despacito - Remix,Luis Fonsi,G_40,2017,82,65,229,17,76
+463,The Greatest,Sia,G_31,2017,73,67,210,27,76
+464,There for You,Martin Garrix,G_13,2017,64,61,222,6,76
+465,Paris,The Chainsmokers,G_30,2017,64,65,222,3,76
+466,Crying in the Club,Camila Cabello,G_3,2017,62,33,216,38,75
+467,Mama,Jonas Blue,G_3,2017,79,74,184,4,75
+468,Slide (feat. Frank Ocean & Migos),Calvin Harris,G_3,2017,80,74,231,5,75
+469,Swish Swish,Katy Perry,G_3,2017,71,84,243,4,73
+470,Chained To The Rhythm,Katy Perry,G_3,2017,80,45,238,17,72
+471,Cold (feat. Future),Maroon 5,G_4,2017,72,69,234,11,72
+472,Love,Lana Del Rey,G_11,2017,37,53,273,3,72
+473,Reggaetón Lento (Remix),CNCO,G_18,2017,91,53,189,9,71
+474,All I Ask,Adele,G_14,2017,28,59,272,3,71
+475,First Time,Kygo,G_43,2017,59,63,194,11,71
+476,The Cure,Lady Gaga,G_3,2017,51,70,211,3,71
+477,"How Far I'll Go - From ""Moana""""""",Alessia Cara,G_33,2017,54,31,176,35,71
+478,Bodak Yellow,Cardi B,G_4,2017,72,93,224,11,70
+479,Rich Love (with Seeb),OneRepublic,G_3,2017,87,40,201,31,70
+480,Tired,Alan Walker,G_44,2017,88,69,192,6,70
+481,Came Here for Love,Sigala,G_3,2017,87,71,203,4,70
+482,24K Magic,Bruno Mars,G_4,2017,80,82,226,8,69
+483,Strip That Down (feat. Quavo),Liam Payne,G_3,2017,50,87,202,5,69
+484,Cut To The Feeling,Carly Rae Jepsen,G_5,2017,91,71,208,6,69
+485,OK - Spotify Version,Robin Schulz,G_3,2017,81,65,189,6,69
+486,Bon appétit,Katy Perry,G_3,2017,79,80,228,6,68
+487,Summer Bummer (feat. A$AP Rocky & Playboi Carti),Lana Del Rey,G_11,2017,57,76,261,13,67
+488,Get Low (with Liam Payne),Zedd,G_22,2017,93,72,205,5,66
+489,Kissing Strangers,DNCE,G_3,2017,74,77,202,4,66
+490,Slow Hands,Niall Horan,G_3,2017,42,74,188,5,64
+491,Younger Now,Miley Cyrus,G_3,2017,87,55,249,6,62
+492,Body Moves,DNCE,G_3,2017,69,65,236,4,62
+493,Reality (feat. Janieck Devy) - Radio Edit,Lost Frequencies,G_36,2017,64,73,158,4,59
+494,Angel,Fifth Harmony,G_3,2017,53,74,189,4,59
+495,Touch (feat. Kid Ink),Little Mix,G_3,2017,75,64,203,11,59
+496,We Don't Talk Anymore - DROELOE Remix,Charlie Puth,G_3,2017,82,70,218,22,59
+497,Love Incredible (feat. Camila Cabello),Cashmere Cat,G_45,2017,50,37,180,12,59
+498,No Vacancy (with Sebastián Yatra),OneRepublic,G_3,2017,76,69,223,4,57
+499,Rich Boy,Galantis,G_13,2017,90,74,184,5,55
+500,Lust for Life (with The Weeknd),Lana Del Rey,G_11,2017,67,51,264,6,54
+501,Greenlight (feat. Flo Rida & LunchMoney Lewis),Pitbull,G_3,2017,83,70,245,27,54
+502,Influence,Tove Lo,G_3,2017,59,77,225,5,54
+503,Remember I Told You,Nick Jonas,G_3,2017,53,68,202,28,53
+504,Messin' Around,Pitbull,G_3,2017,81,57,223,5,51
+505,Water Under the Bridge,Adele,G_14,2017,84,60,240,7,49
+506,Free Me,Sia,G_31,2017,46,27,286,3,44
+507,Kissing Strangers - Remix,DNCE,G_3,2017,77,76,202,5,43
+508,A L I E N S,Coldplay,G_17,2017,88,43,282,4,41
+509,One Kiss (with Dua Lipa),Calvin Harris,G_3,2018,86,79,215,11,86
+510,Havana (feat. Young Thug),Camila Cabello,G_3,2018,52,77,217,3,85
+511,I Like It,Cardi B,G_4,2018,73,82,253,13,85
+512,New Rules,Dua Lipa,G_3,2018,70,76,209,7,84
+513,There's Nothing Holdin' Me Back,Shawn Mendes,G_5,2018,81,87,199,6,84
+514,no tears left to cry,Ariana Grande,G_3,2018,71,70,206,6,84
+515,IDGAF,Dua Lipa,G_3,2018,54,84,218,9,84
+516,In My Blood,Shawn Mendes,G_5,2018,71,62,211,7,83
+517,Wolves,Selena Gomez,G_3,2018,80,72,198,4,83
+518,Dusk Till Dawn - Radio Edit,ZAYN,G_3,2018,44,26,239,4,83
+519,Attention,Charlie Puth,G_3,2018,61,78,209,5,83
+520,Electricity (with Dua Lipa),Silk City,G_43,2018,67,59,238,5,82
+521,Love On The Brain,Rihanna,G_7,2018,64,51,224,5,82
+522,"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,G_3,2018,71,66,175,5,82
+523,Silence,Marshmello,G_46,2018,76,52,181,9,82
+524,Sorry Not Sorry,Demi Lovato,G_3,2018,64,71,204,23,81
+525,Shallow - Radio Edit,Lady Gaga,G_3,2018,33,57,217,3,80
+526,These Days,Rudimental,G_3,2018,81,65,211,5,80
+527,What Lovers Do (feat. SZA),Maroon 5,G_4,2018,60,80,200,6,79
+528,Finesse - Remix; feat. Cardi B,Bruno Mars,G_4,2018,86,70,217,10,78
+529,Perfect Duet (Ed Sheeran & Beyoncé),Ed Sheeran,G_4,2018,30,59,260,3,78
+530,Bad At Love,Halsey,G_3,2018,75,68,181,3,78
+531,Him & I (with Halsey),G-Eazy,G_38,2018,73,59,269,9,78
+532,Friends (with BloodPop®),Justin Bieber,G_5,2018,73,74,189,4,77
+533,Wild Thoughts (feat. Rihanna & Bryson Tiller),DJ Khaled,G_3,2018,67,67,204,7,76
+534,My My My!,Troye Sivan,G_3,2018,46,70,205,8,76
+535,Capital Letters,Hailee Steinfeld,G_3,2018,81,66,219,8,76
+536,Sick Boy,The Chainsmokers,G_30,2018,58,66,193,5,76
+537,Tequila,Dan + Shay,G_47,2018,59,47,196,3,76
+538,Look What You Made Me Do,Taylor Swift,G_4,2018,71,77,212,12,75
+539,Youth (feat. Khalid),Shawn Mendes,G_5,2018,60,53,191,12,75
+540,Bad Liar,Selena Gomez,G_3,2018,41,97,215,7,75
+541,Anywhere,Rita Ora,G_3,2018,80,63,215,6,74
+542,Say Something,Justin Timberlake,G_3,2018,63,71,279,8,74
+543,Chun-Li,Nicki Minaj,G_3,2018,73,69,192,37,73
+544,Sign of the Times,Harry Styles,G_3,2018,57,52,341,3,72
+545,Familiar,Liam Payne,G_3,2018,81,64,197,33,72
+546,Let Me,ZAYN,G_3,2018,57,46,185,5,72
+547,Supernova,Ansel Elgort,G_3,2018,62,77,191,10,72
+548,Nervous,Shawn Mendes,G_5,2018,62,84,164,8,71
+549,First Time,Kygo,G_43,2018,59,63,194,11,71
+550,End Game,Taylor Swift,G_4,2018,59,65,245,6,70
+551,Mi Gente (feat. Beyoncé),J Balvin,G_40,2018,72,76,210,8,68
+552,Lemon,N.E.R.D,G_38,2018,73,92,220,9,68
+553,For You (With Rita Ora),Liam Payne,G_3,2018,80,54,243,3,67
+554,Want To,Dua Lipa,G_3,2018,69,57,212,12,67
+555,What I Need (feat. Kehlani),Hayley Kiyoko,G_3,2018,79,63,220,6,67
+556,Wait,Maroon 5,G_4,2018,60,66,191,6,67
+557,What About Us,P!nk,G_3,2018,59,39,272,6,66
+558,Kissing Strangers,DNCE,G_3,2018,74,77,202,4,66
+559,2U (feat. Justin Bieber),David Guetta,G_3,2018,61,53,195,6,65
+560,Walk On Water (feat. Beyoncé),Eminem,G_2,2018,44,48,304,24,65
+561,This Town,Niall Horan,G_3,2018,41,68,233,3,64
+562,"Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",Rita Ora,G_3,2018,69,73,221,5,64
+563,MOVE TO MIAMI,Enrique Iglesias,G_3,2018,87,76,169,5,64
+564,Miss You (with Major Lazer & Tory Lanez),Cashmere Cat,G_45,2018,64,75,186,9,64
+565,Filthy,Justin Timberlake,G_3,2018,58,75,294,14,62
+566,Never Be the Same - Radio Edit,Camila Cabello,G_3,2018,69,63,227,9,57
+567,Ferrari,Bebe Rexha,G_3,2018,48,58,213,3,57
+568,Supplies,Justin Timberlake,G_3,2018,55,79,226,5,57
+569,Boom Boom,RedOne,G_48,2018,76,75,248,5,53
+570,...Ready For It? - BloodPop® Remix,Taylor Swift,G_4,2018,84,58,190,22,52
+571,Drip (feat. Migos),Cardi B,G_4,2018,59,97,264,26,45
+572,Tell Me You Love Me - NOTD Remix,Demi Lovato,G_3,2018,77,58,182,8,44
+573,Memories,Maroon 5,G_4,2019,32,76,189,5,99
+574,Lose You To Love Me,Selena Gomez,G_3,2019,34,51,206,4,97
+575,Someone You Loved,Lewis Capaldi,G_4,2019,41,50,182,3,96
+576,Señorita,Shawn Mendes,G_5,2019,54,76,191,3,95
+577,How Do You Sleep?,Sam Smith,G_4,2019,68,48,202,9,93
+578,South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,G_4,2019,62,86,204,8,92
+579,Trampoline (with ZAYN),SHAED,G_30,2019,46,62,184,3,92
+580,Happier,Marshmello,G_46,2019,79,69,214,5,90
+581,Truth Hurts,Lizzo,G_49,2019,62,72,173,11,90
+582,Good as Hell (feat. Ariana Grande) - Remix,Lizzo,G_49,2019,89,67,159,6,90
+583,Higher Love,Kygo,G_43,2019,68,69,228,3,88
+584,Only Human,Jonas Brothers,G_18,2019,50,80,183,7,87
+585,Beautiful People (feat. Khalid),Ed Sheeran,G_4,2019,65,64,198,19,86
+586,Sucker,Jonas Brothers,G_18,2019,73,84,181,6,86
+587,Don't Call Me Up,Mabel,G_3,2019,88,67,178,15,86
+588,I Don't Care (with Justin Bieber),Ed Sheeran,G_4,2019,68,80,220,4,85
+589,Talk (feat. Disclosure),Khalid,G_50,2019,40,90,198,13,84
+590,Giant (with Rag'n'Bone Man),Calvin Harris,G_3,2019,89,81,229,4,84
+591,Takeaway,The Chainsmokers,G_30,2019,51,53,210,3,83
+592,All Around The World (La La La),R3HAB,G_13,2019,86,73,148,3,82
+593,Girls Like You (feat. Cardi B),Maroon 5,G_4,2019,54,85,236,5,81
+594,Call You Mine,The Chainsmokers,G_30,2019,70,59,218,3,81
+595,No Guidance (feat. Drake),Chris Brown,G_3,2019,45,70,261,15,81
+596,Antisocial (with Travis Scott),Ed Sheeran,G_4,2019,82,72,162,5,78
+597,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",DJ Snake,G_42,2019,80,84,213,23,77
+598,Con Calma - Remix,Daddy Yankee,G_40,2019,87,74,181,5,76
+599,Find U Again (feat. Camila Cabello),Mark Ronson,G_3,2019,66,61,176,3,75
+600,Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,G_4,2019,79,75,206,12,75
+601,"No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",DJ Khaled,G_3,2019,76,53,260,34,70
+602,Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,G_3,2019,79,60,217,7,69
+603,Kills You Slowly,The Chainsmokers,G_30,2019,44,70,213,6,67
